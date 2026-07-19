@@ -1,47 +1,118 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d0b1a"/>
-      <stop offset="100%" stop-color="#151226"/>
-    </linearGradient>
-    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="45"/>
-    </filter>
-    <linearGradient id="glassStroke" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
-      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.08"/>
-    </linearGradient>
-  </defs>
+<!-- BANNER GLASS (requiere banner.svg subido en la raíz del repo) -->
+<div align="center">
+  <img src="banner.svg" width="100%" alt="banner"/>
+</div>
 
-  <!-- fondo -->
-  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+<br>
 
-  <!-- blobs de color difuminados (efecto glass) -->
-  <circle cx="150" cy="40" r="110" fill="#8B5CF6" opacity="0.45" filter="url(#blur1)"/>
-  <circle cx="870" cy="230" r="130" fill="#6D28D9" opacity="0.4" filter="url(#blur1)"/>
-  <circle cx="600" cy="20" r="80" fill="#A78BFA" opacity="0.25" filter="url(#blur1)"/>
+<div align="center">
 
-  <!-- panel de vidrio -->
-  <rect x="70" y="50" width="860" height="160" rx="20"
-        fill="#ffffff" fill-opacity="0.06"
-        stroke="url(#glassStroke)" stroke-width="1.5"/>
+<a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+&nbsp;
+<a href="TU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-15122a?style=flat-square&logo=safari&logoColor=A78BFA" height="26"/></a>
+&nbsp;
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-15122a?style=flat-square&logo=gmail&logoColor=A78BFA" height="26"/></a>
 
-  <!-- brillo superior del panel -->
-  <rect x="72" y="52" width="856" height="60" rx="18" fill="#ffffff" fill-opacity="0.04"/>
+</div>
 
-  <!-- texto -->
-  <text x="500" y="125" text-anchor="middle"
-        font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="42" font-weight="600" fill="#f4f4f5" letter-spacing="1">
-    Sebastián Gonzalez
-  </text>
-  <text x="500" y="165" text-anchor="middle"
-        font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="16" font-weight="400" fill="#a1a1aa" letter-spacing="4">
-    SOFTWARE DEVELOPER · IT SUPPORT · TESTER
-  </text>
+<br>
 
-  <!-- linea de acento -->
-  <rect x="440" y="185" width="120" height="2" rx="1" fill="#8B5CF6"/>
-</svg>
+<div align="center">
+
+### Lenguajes
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebagonsua&layout=donut&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&langs_count=8&card_width=420" alt="Top languages"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### Tech Stack
+
+<br>
+
+<sub>FRONTEND</sub>
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="42"/>
+
+<br><br>
+
+<sub>BACKEND</sub>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="42"/>
+&nbsp;<img src="https://img.shields.io/badge/GeneXus-15122a?style=flat-square&logoColor=A78BFA" height="30"/>
+
+<br><br>
+
+<sub>DATABASE &nbsp;·&nbsp; TOOLS</sub>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" height="42"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### Proyectos
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/sebagonsua/ProyectoTallerGenexus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sebagonsua&repo=ProyectoTallerGenexus&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" />
+</a>
+</td>
+<!-- Proyecto siguiente: descomentá y cambiá NOMBRE_REPO
+<td align="center">
+<a href="https://github.com/sebagonsua/NOMBRE_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sebagonsua&repo=NOMBRE_REPO&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" />
+</a>
+</td>
+-->
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### Actualmente
+
+<br>
+
+<sub>TRABAJANDO EN</sub> &nbsp; ProyectoTallerGenexus — gestor de venta de entradas para eventos
+
+<sub>APRENDIENDO</sub> &nbsp; [completá: ej. desarrollo web, bases de datos]
+
+<sub>INTERESADO EN</sub> &nbsp; [completá: ej. desarrollo full-stack, low-code]
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1" width="100%"/>
+
+<div align="center">
+<sub>Construyendo, aprendiendo, iterando.</sub>
+</div>
