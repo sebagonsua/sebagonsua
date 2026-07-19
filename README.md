@@ -5,9 +5,9 @@
 Estudiante desarrollando con **GeneXus** y **JavaScript**.
 
 - 🔭 Trabajando en: **ProyectoTallerGenexus** — gestor de venta de entradas para eventos
-- 🌱 Aprendiendo: [completá con lo que estés cursando ahora]
+- 🌱 Aprendiendo:
 - 💬 Preguntame sobre: GeneXus, JavaScript
-- 📫 Contacto: [tu LinkedIn] · [tu mail, opcional]
+- 📫 Contacto: 
 
 <br>
 
