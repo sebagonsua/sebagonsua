@@ -7,11 +7,9 @@
 
 <div align="center">
 
-<a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
+<a href="https://www.linkedin.com/in/sebastiangonzalezsuarez/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" height="26"/></a>
 &nbsp;
 <a href="TU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-15122a?style=flat-square&logo=safari&logoColor=A78BFA" height="26"/></a>
-&nbsp;
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-15122a?style=flat-square&logo=gmail&logoColor=A78BFA" height="26"/></a>
 
 </div>
 
