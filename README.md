@@ -70,18 +70,16 @@
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/sebagonsua/ProyectoTallerGenexus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sebagonsua&repo=ProyectoTallerGenexus&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" />
-</a>
+<td align="center" width="380">
+
+**[ProyectoTallerGenexus](https://github.com/sebagonsua/ProyectoTallerGenexus)**
+
+Gestor de venta de entradas para eventos, desarrollado en GeneXus.
+
+![Lenguaje](https://img.shields.io/github/languages/top/sebagonsua/ProyectoTallerGenexus?style=flat-square&color=8B5CF6&labelColor=15122a)
+![Stars](https://img.shields.io/github/stars/sebagonsua/ProyectoTallerGenexus?style=flat-square&color=8B5CF6&labelColor=15122a)
+
 </td>
-<!-- Proyecto siguiente: descomentá y cambiá NOMBRE_REPO
-<td align="center">
-<a href="https://github.com/sebagonsua/NOMBRE_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sebagonsua&repo=NOMBRE_REPO&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&icon_color=8B5CF6" />
-</a>
-</td>
--->
 </tr>
 </table>
 
