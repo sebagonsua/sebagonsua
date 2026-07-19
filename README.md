@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebagonsua&layout=donut&hide_border=true&bg_color=0d0b1a&title_color=A78BFA&text_color=c9d1d9&langs_count=8&card_width=420" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebagonsua&theme=tokyonight" alt="Top languages"/>
 
 </div>
 
