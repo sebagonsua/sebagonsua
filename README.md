@@ -2,7 +2,4 @@
 Lenguajes
 <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebagonsua&theme=tokyonight" alt="Top languages"/> </div> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/> <br> <div align="center">
 Tech Stack
-<br> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,tailwind,vite&theme=dark" height="42"/> <br>
-<br> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="42"/> &nbsp;<img src="https://img.shields.io/badge/GeneXus-15122a?style=flat-square&logoColor=A78BFA" height="30"/> <br>
-<br> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" height="42"/> 
-</div> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/> <br> <div align="center">
+<br> <sub>FRONTEND</sub> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,tailwind,vite&theme=dark" height="42"/> <br><br> <sub>BACKEND</sub> <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet&theme=dark" height="42"/> &nbsp;<img src="https://img.shields.io/badge/GeneXus-15122a?style=flat-square&logoColor=A78BFA" height="30"/> <br><br> <sub>DATABASE &nbsp;·&nbsp; TOOLS</sub> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" height="42"/> </div> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2" width="100%"/> <br> <div align="center">
