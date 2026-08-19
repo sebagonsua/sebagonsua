@@ -39,7 +39,3 @@
   <sub>DATABASE · TOOLS</sub><br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" height="42"/>
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height="2" width="100%"/>
