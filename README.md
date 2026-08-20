@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
   </a>
   &nbsp;
-  <a href="[TU_PORTFOLIO](https://proyecto-portfolio-ten.vercel.app/)">
+  <a href="https://proyecto-portfolio-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-15122a?style=flat-square&logo=safari&logoColor=A78BFA" height="26"/>
   </a>
 </div>
